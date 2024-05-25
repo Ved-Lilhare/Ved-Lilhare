@@ -1,3 +1,4 @@
+![logo](https://github.com/Ved-Lilhare/Ved-Lilhare/blob/main/ved.png)
 <h1 align="center">Hi 👋, I'm Ved Lilhare</h1>
 <h3 align="center">A Passionate Data Scientist's Exploration of AI and ML from India</h3>
 
